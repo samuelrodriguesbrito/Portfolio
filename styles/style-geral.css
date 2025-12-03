@@ -336,6 +336,11 @@ section#contact a {
     font-size: 10vw;
 }
 
+section#contact a:hover i {
+    color: var(--cor-destaque);
+}
+
 section#contact a > i {
     font-size: 10vw;
+
 }
